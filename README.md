@@ -43,6 +43,18 @@ Visualizes 3D building data by rendering a detailed 3D model using `matplotlib`.
 - **Key Features**: 3D rendering of building structures, color-coded visualization for clarity, and customizable view angles for detailed examination.
 - **Usage**: Adjust the JSON file path to point to your 3D data file, then run the script to generate the 3D visualization.
 
+## Sample Data
+
+Sample data files provided in this repository correspond to the following addresses in Tallinn, Estonia:
+
+- **Mustamäe tee 171** (EHR ID 101015900)
+- **Mustamäe tee 171a** (EHR ID 101020224)
+- **Mustamäe tee 165** (EHR ID 101020045)
+- **Mustamäe tee 167** (EHR ID 101043661)
+- **Mustamäe tee 169** (EHR ID 101020052)
+
+These data files are utilized within the scripts to demonstrate the data fetching and visualization processes. They are meant to provide practical examples that complement the theoretical knowledge gained in the "Data Mining" course.
+
 ## Installation and Requirements
 
 To use these scripts, you will need Python installed on your system, along with the following libraries:
