@@ -45,13 +45,23 @@ Visualizes 3D building data by rendering a detailed 3D model using `matplotlib`.
 
 ## Sample Data
 
-Sample data files provided in this repository correspond to the following addresses in Tallinn, Estonia:
+Sample data files provided in this repository correspond to the following addresses in Tallinn, Estonia, along with their respective filenames:
 
 - **Mustamäe tee 171** (EHR ID 101015900)
+  - `101015900.3D.json`
+  - `101015900.json`
 - **Mustamäe tee 171a** (EHR ID 101020224)
+  - `101020224.3D.json`
+  - `101020224.json`
 - **Mustamäe tee 165** (EHR ID 101020045)
+  - `101020045.3D.json`
+  - `101020045.json`
 - **Mustamäe tee 167** (EHR ID 101043661)
+  - `101043661.3D.json`
+  - `101043661.json`
 - **Mustamäe tee 169** (EHR ID 101020052)
+  - `101020052.3D.json`
+  - `101020052.json`
 
 These data files are utilized within the scripts to demonstrate the data fetching and visualization processes. They are meant to provide practical examples that complement the theoretical knowledge gained in the "Data Mining" course.
 
