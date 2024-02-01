@@ -81,11 +81,7 @@ python Script1_Fetch_Building_EHR_Data.py
 !pip install requests matplotlib numpy
 ```
 
-4. Run the script by using the `!python` command in a cell, for example:
-
-```python
-!python Script1_Fetch_Building_EHR_Data.py
-```
+4. Run the script by copy pasting the source code to a project and running it.
 
 ## Contributing
 
