@@ -65,6 +65,8 @@ Sample data files provided in this repository correspond to the following addres
 
 These data files are utilized within the scripts to demonstrate the data fetching and visualization processes. They are meant to provide practical examples that complement the theoretical knowledge gained in the "Data Mining" course.
 
+![Image about the Sample data](sample_data.png)
+
 ## Installation and Requirements
 
 To use these scripts, you will need Python installed on your system, along with the following libraries:
