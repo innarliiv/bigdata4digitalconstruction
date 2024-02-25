@@ -3,7 +3,7 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 
-# Assuming you have replaced the inline dataset with 'buildings.csv'
+# Reading the dataset from CSV file 'buildings.csv'
 data = pd.read_csv('buildings.csv')  # Adjust the path as necessary
 
 # Selecting only numerical features for clustering
