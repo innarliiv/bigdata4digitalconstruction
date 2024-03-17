@@ -1,0 +1,189 @@
+{
+  "proposalDate": "2023-02-02",
+  "projectScope": "Eramaja rekonstrueerimine",
+  "costItems": [
+    {
+      "id": "A1.1",
+      "description": "Terrassi avamine,sulgemine",
+      "quantity": 18,
+      "unit": "m2",
+      "totalUnitPrice": 32,
+      "totalCost": 576,
+      "EVS_Category": "46"
+    },
+    {
+      "id": "A1.2",
+      "description": "Sillutuskivide eemaldus,paigaldus.",
+      "quantity": 49,
+      "unit": "m2",
+      "totalUnitPrice": 50,
+      "totalCost": 2450,
+      "EVS_Category": "174"
+    },
+    {
+      "id": "A1.3",
+      "description": "Kaevetööd, tihendamine.( sügavus 1m)",
+      "quantity": 1,
+      "unit": "kmpl",
+      "totalUnitPrice": 2200,
+      "totalCost": 2200,
+      "EVS_Category": "122"
+    },
+    {
+      "id": "A1.4",
+      "description": "Vundamendi soojustamine eps100mm",
+      "quantity": 62,
+      "unit": "m2",
+      "totalUnitPrice": 65,
+      "totalCost": 4030,
+      "EVS_Category": "227"
+    },
+    {
+      "id": "A1.5",
+      "description": "Maapealse osa viimistlemine tsement plaadiga.",
+      "quantity": 18,
+      "unit": "m2",
+      "totalUnitPrice": 79,
+      "totalCost": 1422,
+      "EVS_Category": "22"
+    },
+    {
+      "id": "A1.6",
+      "description": "Vihmaveetorude eemaldus-paigaldus.",
+      "quantity": 1,
+      "unit": "kmpl",
+      "totalUnitPrice": 430,
+      "totalCost": 430,
+      "EVS_Category": "175"
+    },
+    {
+      "id": "A1.7",
+      "description": "Tuulekastide avamine-sulgemine.",
+      "quantity": 1,
+      "unit": "kmpl",
+      "totalUnitPrice": 1050,
+      "totalCost": 1050,
+      "EVS_Category": "48"
+    },
+    {
+      "id": "A1.8",
+      "description": "Korstna demontaaš",
+      "quantity": 1,
+      "unit": "kmpl",
+      "totalUnitPrice": 480,
+      "totalCost": 480,
+      "EVS_Category": "68"
+    },
+    {
+      "id": "A1.9",
+      "description": "Fassaadi soojustus 50mm koos tuuletõkkega",
+      "quantity": 151,
+      "unit": "m2",
+      "totalUnitPrice": 66,
+      "totalCost": 9966,
+      "EVS_Category": "327"
+    },
+    {
+      "id": "A1.10",
+      "description": "Voodrilaua paigaldus koos värvimisega",
+      "quantity": 151,
+      "unit": "m2",
+      "totalUnitPrice": 58,
+      "totalCost": 8758,
+      "EVS_Category": "328"
+    },
+    {
+      "id": "A1.11",
+      "description": "Aknapaled ja veelauad",
+      "quantity": 1,
+      "unit": "kmpl",
+      "totalUnitPrice": 1750,
+      "totalCost": 1750,
+      "EVS_Category": "42"
+    },
+    {
+      "id": "A1.12",
+      "description": "Puistevilla paigaldamine",
+      "quantity": 1,
+      "unit": "kmpl",
+      "totalUnitPrice": 2100,
+      "totalCost": 2100,
+      "EVS_Category": "487"
+    },
+    {
+      "id": "A1.13",
+      "description": "Avatäidete eemaldus",
+      "quantity": 1,
+      "unit": "kmpl",
+      "totalUnitPrice": 1200,
+      "totalCost": 1200,
+      "EVS_Category": "42"
+    },
+    {
+      "id": "A1.14",
+      "description": "Uute akende paigaldus",
+      "quantity": 1,
+      "unit": "kmpl",
+      "totalUnitPrice": 7100,
+      "totalCost": 7100,
+      "EVS_Category": "42"
+    },
+    {
+      "id": "A1.15",
+      "description": "Aknapalede viimistlus+aknalauad",
+      "quantity": 1,
+      "unit": "kmpl",
+      "totalUnitPrice": 1300,
+      "totalCost": 1300,
+      "EVS_Category": "42"
+    },
+    {
+      "id": "A1.16",
+      "description": "Käiguteede ehitus",
+      "quantity": 1,
+      "unit": "kmpl",
+      "totalUnitPrice": 800,
+      "totalCost": 800,
+      "EVS_Category": "47"
+    },
+    {
+      "id": "A1.17",
+      "description": "Välisuste paigaldamine",
+      "quantity": 2,
+      "unit": "tk",
+      "totalUnitPrice": 870,
+      "totalCost": 1740,
+      "EVS_Category": "43"
+    },
+    {
+      "id": "A1.18",
+      "description": "Soojustagastusega ventilatsioonisüsteemi ehitus, garantii 2 aastat",
+      "quantity": 1,
+      "unit": "kmpl",
+      "totalUnitPrice": 7750,
+      "totalCost": 7750,
+      "EVS_Category": "724"
+    },
+    {
+      "id": "A1.19",
+      "description": "Maaküttepumba ja kontuuri paigaldamine 8KW. garantii 2 aastat ",
+      "quantity": 1,
+      "unit": "kmpl",
+      "totalUnitPrice": 12100,
+      "totalCost": 12100,
+      "EVS_Category": "722"
+    },
+    {
+      "id": "A1.20",
+      "description": "Transport ja utiliseerimine",
+      "quantity": 1,
+      "unit": "kmpl",
+      "totalUnitPrice": 2500,
+      "totalCost": 2500,
+      "EVS_Category": "8"
+    }
+  ],
+  "totalCostExclVAT": 69702,
+  "VAT": 13940.4,
+  "totalCost": 83642.4
+}
